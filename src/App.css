@@ -1,6 +1,98 @@
+
+.navBar1 img{
+  height: 0px;
+  
+}
+.navBar1{
+  height: 60px;
+}
+.navBar1 h2{
+  color: #142b6f
+  ;
+}
+.navBar1 p{
+  color: #142b6f;
+}
+.blueColor{
+  color: #142b6f;
+}
+/*  */
+.head{
+  height: 200px;
+}
+/*  */
+.textData{
+  font-size: 35px;
+--breakpoint-xsm: 0;
+--breakpoint-sm: 750px;
+--breakpoint-md: 960px;
+--breakpoint-lg: 1200px;
+font-family: LL Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+font-weight: 900;
+text-align: left;
+color: #142b6f;
+box-sizing: border-box;
+-webkit-font-smoothing: antialiased;
+position: relative;
+letter-spacing: -0.5px;
+font-size: 1.375rem;
+line-height: 2rem;
+min-height: 96px;
+margin-bottom: 26px;
+font-size: 35px;
+
+}
+
+
+.mainBody{
+  height: 900px;
+  width: 100%;
+  background-color: rgba(215, 215, 240, 0.87);
+}
+.bigBox1{
+float: left;
+width: 62%;
+}
+.box1{
+float: left;
+width: 45%;
+}
+.box2{
+  float: left;
+  width: 50%;
+}
+.bigBox2{
+float: right;
+width: 38%;
+}
+.box3{
+float: left;
+width: 50%;
+}
+.box3 div{
+float: right;
+width: 10%;
+}
+.box4{
+float: right;
+width: 50%;
+}
+.box4 div{
+  width: 16%;
+  }
 .left{
-  height: 500px;
+  height: 450px;
 }
 .right{
-  height: 400px;
+  height: 350px;
+}
+
+
+/* text */
+.textSign{
+  font-weight: 900;
+  
+}
+.textPosition{
+  font-style: italic;
 }
